@@ -6,4 +6,4 @@
 - Choose between `"console"`, `"file"`, and `"both"` options in `transaction_log_config.json` to customize logging location
 
 ## License
-- GPLv3
+- [The Unlicense](https://unlicense.org/)
